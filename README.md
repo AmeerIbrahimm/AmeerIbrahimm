@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmeerIbrahimm
 - 👀 I’m interested in Web and Microservices 
-- 🌱 I’m currently learning Haskell 
+- 🌱 I’m currently learning Rust 🦀 
 - 💞️ I’m looking to collaborate on Go
 - 📫 How to reach me ameer15599@gmail.com
 
